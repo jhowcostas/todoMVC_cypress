@@ -1,0 +1,10 @@
+{
+  "name": "bootcamp-todoemv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jonatas",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.13.3"
+  }
+}
